@@ -1,0 +1,2 @@
+# olympgames_h
+The Olympic Games are normally held every 4 years, alternating between the 'Summer' and 'Winter' Olympics every two years in the four-year period. Their creation was inspired by the ancient Olympic Games.  "Olympic Games" dataset includes all the Games from Athens 1896 to Rio 2016y. Also, this dataset considers some interesting events like "Painting and Poetry" and "Nazi Germany in 1936".
